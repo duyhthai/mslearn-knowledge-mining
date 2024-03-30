@@ -2,8 +2,8 @@
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 rem Set values for your storage account
-set subscription_id=YOUR_SUBSCRIPTION_ID
-set azure_storage_account=YOUR_AZURE_STORAGE_ACCOUNT_NAME
+set subscription_id=09bb6d8b-5ed9-4692-b5d4-f2e8fe6459dd
+set azure_storage_account=mslearnopenairag
 set azure_storage_key=YOUR_AZURE_STORAGE_KEY
 
 

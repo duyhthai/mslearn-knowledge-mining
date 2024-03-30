@@ -1,7 +1,7 @@
 @echo off
 
 rem Set values for your Search service
-set url=YOUR_SEARCH_URL
+set url=https://mslearn-ai-search-dt.search.windows.net
 set admin_key=YOUR_ADMIN_KEY
 
 echo -----
